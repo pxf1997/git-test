@@ -24,5 +24,6 @@ public class GItTest {
         System.out.println("测试GitHub push操作");
         // 网页手动修改
         System.out.println("测试网页手动修改");
+        System.out.println("测试网页手动修改2");
     }
 }
