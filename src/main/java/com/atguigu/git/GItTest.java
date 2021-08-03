@@ -19,5 +19,6 @@ public class GItTest {
         System.out.println("第三次提交");
         System.out.println("修改hot-fix分支");
         System.out.println("master分支修改");
+        System.out.println("hot-fix test");
     }
 }
