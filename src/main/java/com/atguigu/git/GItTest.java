@@ -17,5 +17,6 @@ public class GItTest {
         System.out.println("gitee test2!");
         System.out.println("第二次提交");
         System.out.println("第三次提交");
+        System.out.println("修改hot-fix分支");
     }
 }
