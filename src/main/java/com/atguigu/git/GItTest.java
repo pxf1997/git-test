@@ -16,5 +16,6 @@ public class GItTest {
         System.out.println("gitee test!");
         System.out.println("gitee test2!");
         System.out.println("第二次提交");
+        System.out.println("第三次提交");
     }
 }
